@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/sayem/Desktop/PH Course/Module-3 Mongose/univercity-managment/logs/winston/successes/.644667c55a4889bea55b52a9e3e868cc9912a398-audit.json",
+    "files": [
+        {
+            "date": 1686461053953,
+            "name": "/home/sayem/Desktop/PH Course/Module-3 Mongose/univercity-managment/logs/winston/successes/um-2023-11-06-11-success.log",
+            "hash": "72429eea5b105bd7eca2168e3a8080099bf4f1b3d39b6c6ec841035a8fe73c5b"
+        },
+        {
+            "date": 1686465724013,
+            "name": "/home/sayem/Desktop/PH Course/Module-3 Mongose/univercity-managment/logs/winston/successes/um-2023-11-06-12-success.log",
+            "hash": "712dd98dd62414dff1bf2031e505977f778cba2b6d47e0a3979bbf361378f638"
+        },
+        {
+            "date": 1686466839877,
+            "name": "/home/sayem/Desktop/PH Course/Module-3 Mongose/univercity-managment/logs/winston/successes/um-2023-11-06-13-success.log",
+            "hash": "becd10c2a8296f41b8700b05bfb3129dd43f430fa0ac6fdacc87b332ee6c298e"
+        }
+    ],
+    "hashType": "sha256"
+}

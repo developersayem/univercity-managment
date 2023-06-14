@@ -1,0 +1,36 @@
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T15:05:12.761Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T15:05:12.773Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T15:05:43.722Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T15:05:43.731Z'
+}
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T15:05:56.091Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T15:05:56.099Z'
+}

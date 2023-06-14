@@ -1,0 +1,18 @@
+{
+  message: '🛢   Database is connected successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T04:01:46.069Z'
+}
+{
+  message: 'Application  listening on port 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T04:01:46.077Z'
+}
+{
+  message: 'SIGTERM Received',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T04:02:23.971Z'
+}
